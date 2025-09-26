@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aunifthh&label=Profile%20views&color=0e75b6&style=flat" alt="aunifthh" /> </p>
 
-- 🔭 I’m currently working on an internship project titled [Energy Management Gold Standard (EMGS)](https://github.com/aunifthh/emgs)
+- 🔭 I’m currently working on an internship project titled [#]
 
 - 📫 How to reach me **auniauzi@gmail.com**
 
